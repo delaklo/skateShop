@@ -1,0 +1,143 @@
+.itempage__title{
+
+    font-size: 30px;
+    margin: 15px 0 40px 20px;
+}
+
+.itempage__menu{
+    background-color: rgb(238, 242, 246);
+    overflow: hidden;
+    width: 100vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    .itempage__menu__option{
+        color: rgb(133, 133, 254);
+        margin-left: 30px;
+        padding: 10px;
+        cursor: pointer;
+    }
+}
+
+.line{
+    border-bottom: 3px solid rgb(40, 195, 102);
+}
+
+.itempage__allAbout{
+    padding: 0 30px 0 30px;
+}
+
+.itempage__firstBlock{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+
+.itempage__secondBlock{
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.itempage__sideinfo{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.itempage__available{
+    width: 140px;
+    height: 30px;
+    background-color: rgb(234, 250, 234);
+    color: rgb(22, 137, 22);
+    text-align: center;
+    border-radius: 5px;
+}
+
+.itempage__sideinfo__1{
+    display: flex;
+    align-items: center;
+    width: 50vw;
+    border: 1px solid rgba(153, 153, 153, 0.3);
+    border-radius: 4px;
+    padding: 15px;
+}
+
+.itempage__btn__buy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 30px 0 30px;
+    width: 140px;
+    height: 40px;
+    color: white;
+    background-color: rgb(36, 161, 92);
+    border-radius: 5px;
+    border:none;
+    &:hover{
+        background-color: rgb(39, 175, 102);
+    }
+
+    span{
+        margin: 5px;
+    }
+}
+
+.itempage__btn__credite{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 40px;
+    color: white;
+    background-color: rgb(84, 103, 170);
+    border-radius: 5px;
+    border:none;
+    &:hover{
+        background-color: rgb(89, 107, 183);
+    }
+
+    span{
+        margin: 5px;
+    }
+}
+
+.sideinfo__price{
+    font-size: 40px;
+}
+
+.allAbout__list{
+    li{
+        list-style-type: none;
+    }
+    li:not(:last-child) { 
+        margin-bottom: 14px;  
+     }
+}
+
+.char__title{
+    opacity: .3;
+}
+
+.dots{
+    font-size: .7rem;
+    opacity: .3;
+}
+
+.characterictics_block{
+    width: 40%;
+}
+
+.review_block{
+    width: 60%;
+}
+
+.form__wrapper{
+    padding: 15px;
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+

@@ -1,0 +1,15 @@
+@use "./variables" as *;
+
+@import '~bootstrap/dist/css/bootstrap.css';
+
+
+.App {
+ 
+  font-family: $font-stack;
+  overflow: hidden;
+}
+
+a{
+  text-decoration: none;
+}
+

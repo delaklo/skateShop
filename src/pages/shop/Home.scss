@@ -1,0 +1,26 @@
+@use "../../variables" as *;
+
+
+.globalScore{
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    margin: 15px;
+}
+
+.btn{
+    display: block;
+    width: 380px;
+    height: 60px;
+    margin: 20px;
+    background-color: transparent;
+    color: white;
+    border-radius: 4px;
+    font-family: $font-stack;
+    border: 1px solid white;
+}
+
+.shop__title{
+    margin: 20px 20px 80px 20px;
+}

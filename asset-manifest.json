@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4675465.css",
-    "main.js": "/static/js/main.66987884.js",
-    "static/js/787.325cd123.chunk.js": "/static/js/787.325cd123.chunk.js",
-    "static/media/9.jpg": "/static/media/9.e9cee4bf8d2177f4bbfd.jpg",
-    "static/media/8.jpg": "/static/media/8.33f16fff7851ba9c12a5.jpg",
-    "static/media/11.jpg": "/static/media/11.12607960bde557418618.jpg",
-    "static/media/4.jpg": "/static/media/4.100b36b13127a6987a71.jpg",
-    "static/media/12.jpg": "/static/media/12.19bbcdaf65d09e9995b1.jpg",
-    "static/media/10.jpg": "/static/media/10.cf6bf26c3a8e1e60dd46.jpg",
-    "static/media/7.jpg": "/static/media/7.b33ec22196c4eaede767.jpg",
-    "static/media/2.jpg": "/static/media/2.a1131fe3373aced32732.jpg",
-    "static/media/3.jpg": "/static/media/3.e4833310c9cd80840153.jpg",
-    "static/media/5.jpg": "/static/media/5.49cf76e7f54346500fea.jpg",
-    "static/media/6.jpg": "/static/media/6.8824b652699affc4062e.jpg",
-    "static/media/1.jpg": "/static/media/1.73843e8397e8685a3aa4.jpg",
-    "index.html": "/index.html",
-    "main.e4675465.css.map": "/static/css/main.e4675465.css.map",
-    "main.66987884.js.map": "/static/js/main.66987884.js.map",
-    "787.325cd123.chunk.js.map": "/static/js/787.325cd123.chunk.js.map"
+    "main.css": "/skateShop/static/css/main.e4675465.css",
+    "main.js": "/skateShop/static/js/main.8c8ce1d8.js",
+    "static/js/787.533c739a.chunk.js": "/skateShop/static/js/787.533c739a.chunk.js",
+    "static/media/9.jpg": "/skateShop/static/media/9.e9cee4bf8d2177f4bbfd.jpg",
+    "static/media/8.jpg": "/skateShop/static/media/8.33f16fff7851ba9c12a5.jpg",
+    "static/media/11.jpg": "/skateShop/static/media/11.12607960bde557418618.jpg",
+    "static/media/4.jpg": "/skateShop/static/media/4.100b36b13127a6987a71.jpg",
+    "static/media/12.jpg": "/skateShop/static/media/12.19bbcdaf65d09e9995b1.jpg",
+    "static/media/10.jpg": "/skateShop/static/media/10.cf6bf26c3a8e1e60dd46.jpg",
+    "static/media/7.jpg": "/skateShop/static/media/7.b33ec22196c4eaede767.jpg",
+    "static/media/2.jpg": "/skateShop/static/media/2.a1131fe3373aced32732.jpg",
+    "static/media/3.jpg": "/skateShop/static/media/3.e4833310c9cd80840153.jpg",
+    "static/media/5.jpg": "/skateShop/static/media/5.49cf76e7f54346500fea.jpg",
+    "static/media/6.jpg": "/skateShop/static/media/6.8824b652699affc4062e.jpg",
+    "static/media/1.jpg": "/skateShop/static/media/1.73843e8397e8685a3aa4.jpg",
+    "index.html": "/skateShop/index.html",
+    "main.e4675465.css.map": "/skateShop/static/css/main.e4675465.css.map",
+    "main.8c8ce1d8.js.map": "/skateShop/static/js/main.8c8ce1d8.js.map",
+    "787.533c739a.chunk.js.map": "/skateShop/static/js/787.533c739a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4675465.css",
-    "static/js/main.66987884.js"
+    "static/js/main.8c8ce1d8.js"
   ]
 }
